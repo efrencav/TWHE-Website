@@ -367,6 +367,14 @@ select {
   margin-right: 50px !important;
 }
 
+.mr-100 {
+  margin-right: 100px !important;
+}
+
+.mr-250 {
+  margin-right: 250px !important;
+}
+
 /* Margin Left */
 .ml-0 {
   margin-left: 0 !important;
@@ -7741,4 +7749,18 @@ hr.class-1 {
 
 .border-top {
   border-top: 1px solid #000000;
+}
+
+.title {
+  font-size: 18px;
+  color: #000000;
+}
+
+.check-mark {
+  line-height: 28px;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  margin: 5px 0;
+  padding-left: 35px;
 }
